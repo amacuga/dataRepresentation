@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library_catalogue> 
+    <book category="technical">
+        <ISBN>1119002257</ISBN> 
+        <title>Storytelling with Data: A Data Visualization Guide for Business Professionals</title> 
+        <author>Cole Nussbaumer Knaflic</author>
+    </book>
+    <book category="technical">
+        <ISBN>0998296600</ISBN> 
+        <title>Atomic Design</title> 
+        <author> Brad Frost</author>
+    </book>
+    <book category="cookery">
+        <ISBN>1444756699</ISBN> 
+        <title>Gordon Ramsay's Ultimate Cookery Course</title> 
+        <author>Gordon Ramsay</author>
+    </book>
+    <book category="cookery">
+        <ISBN>071815780X</ISBN> 
+        <title>Jamie's 15 Minute Meals</title> 
+        <author>Jamie Oliver</author>
+    </book>
+</library_catalogue>
